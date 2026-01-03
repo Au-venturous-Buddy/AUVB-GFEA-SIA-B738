@@ -1,4 +1,4 @@
 [
-    {"date": "2022-12-05", "number": "SQ113", "tail": "9V-MGM(?)", "from": "KUL", "to": "SIN", "status": "COMPLETED"},
+    {"date": "2022-12-05", "number": "SQ113", "tail": "9V-MGM", "from": "KUL", "to": "SIN", "status": "COMPLETED"},
     {"date": "2022-11-26", "number": "SQ114", "tail": "", "from": "SIN", "to": "KUL", "status": "COMPLETED"}
 ]
